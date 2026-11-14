@@ -1,10 +1,10 @@
 {
   "design": {
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/oya40839-bot/friends5g-files/main/logos/site_logo_1794695043112.jpg?t=1794695046234",
     "siteName": "FRIENDS 5G APP STORE",
-    "tagline": "Official High-Speed Android Apps",
-    "accentColor": "#0000ff",
-    "bgColor": "#050811",
+    "tagline": "Admin orange 5g VIP ",
+    "accentColor": "#ffffff",
+    "bgColor": "#00ff00",
     "bannerText": "Official & Safe APKs"
   },
   "apps": []
