@@ -1,0 +1,21 @@
+{
+  "apps": [
+    {
+      "name": "FRIENDS 5G v2ray",
+      "dev": "FRIENDS 5G Official",
+      "rating": "4.8",
+      "reviews": "3k reviews",
+      "size": "92 MB",
+      "downloads": "100k+",
+      "icon": "https://raw.githubusercontent.com/oya40839-bot/friends5g-files/main/icons/1794724905564_1000923664.png",
+      "banner": "https://raw.githubusercontent.com/oya40839-bot/friends5g-files/main/banners/1794724908594_1001908129.jpg",
+      "shot2": "https://raw.githubusercontent.com/oya40839-bot/friends5g-files/main/banners/1794724910920_1001908127.jpg",
+      "desc": "High-Speed 5G VIP VPN & Secure Internet Connection App",
+      "tags": [
+        "Tools",
+        "5G VIP & Fast VPN"
+      ],
+      "link": "https://pub-bb6d8523e0364a6683012202ed37e55e.r2.dev/FRIENDS%205G%20SPEED.apk"
+    }
+  ]
+}
